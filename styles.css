@@ -10,10 +10,6 @@ body {
 	margin: 0 0 50px;
 }
 
-#header {
-	padding-top: 5%;
-}
-
 #footer {
 	position: absolute;
 	height: 50px;
@@ -130,7 +126,7 @@ a.nav:hover {
 
 #map {
 	margin: auto;
-	width: 50%;
-	height: 450px;
+	width: 65%;
+	height: 700px;
 	padding: 10px;
 }
